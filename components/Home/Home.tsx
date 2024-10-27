@@ -8,7 +8,7 @@ import Building from './Building/Building'
 import Review from './Review/Review'
 import Blog from './Blog/Blog'
 import AOS from 'aos';
-import 'aos/dist/aos.css'; // You can also use <link> for styles
+import 'aos/dist/aos.css'; 
 
 const Home = () => {
   useEffect(()=>{
