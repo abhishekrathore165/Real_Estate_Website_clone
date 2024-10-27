@@ -19,7 +19,7 @@ const Appartment = () => {
                         })
                     }
                 </div>
-            </div>  v
+            </div>  
         </div>
     )
 }
